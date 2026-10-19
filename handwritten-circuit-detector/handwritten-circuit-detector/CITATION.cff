@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this course project if you use its original work, and cite upstream methods and datasets separately."
+title: "Handwritten Circuit Detector"
+authors:
+  - family-names: "Liu"
+    given-names: "Junyi"
+type: software
+url: "https://colab.research.google.com/drive/1-5YP94Y9pPrMfdOLITDnE2C3QRwVDp3d"
+abstract: "APS360 course project exploring handwritten circuit component detection and classification, including a YOLOv5 localizer and dual-branch CNN classifier."
