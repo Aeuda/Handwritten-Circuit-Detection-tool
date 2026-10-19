@@ -59,7 +59,3 @@ The synthetic-data generation source and any additional adapted snippets should 
 ## Citation
 
 Liu, Junyi. *Handwritten Circuit Detector*. APS360 individual course project, University of Toronto, 2026. See `CITATION.cff` for machine-readable authorship. This is a course project, not a peer-reviewed publication.
-
-## Upload to GitHub
-
-Create a repository named `handwritten-circuit-detector` under your own account, then upload the contents of this folder. Do not upload the ZIP itself. After publishing, use the actual repository URL in your CV and add it to CITATION.cff as repository-code.
